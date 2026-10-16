@@ -4,6 +4,7 @@ This repository contains our group project using public APIs with Python.
 ## Group Members
 
 - Han Yu
+- Shay Wang
 
 
 ## PokeAPI
