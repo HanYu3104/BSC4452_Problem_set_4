@@ -1,3 +1,27 @@
 # BSC4452_Problem_set_4
-1. Han Yu: PokeAPI
+This repository contains our group project using public APIs with Python.
 
+## Group Members
+
+- Han Yu
+
+
+## PokeAPI
+
+Author: Han Yu
+
+This notebook uses the PokeAPI to retrieve information about Pokémon.
+
+The program allows the user to search for a Pokémon by name and displays:
+
+- Name
+- Height
+- Weight
+- Type
+- Abilities
+- Base statistics
+
+
+File: `pokemon_api.ipynb`
+
+API documentation: https://pokeapi.co/
