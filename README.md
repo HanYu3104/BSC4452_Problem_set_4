@@ -31,6 +31,7 @@ API documentation: https://pokeapi.co/
 ## Recorded Opsin genes in Nematostella vectensis
 ### Author: Shay Wang
 API: [MyGene.info]https://docs.mygene.info/
+file: 'SW_PS4_MyGene.ipynb'
 
 #### What this script does:
 1. extract genes that have 'opsin' in the recorded name, output all matches. Total of 5 opsin genes are recorded
