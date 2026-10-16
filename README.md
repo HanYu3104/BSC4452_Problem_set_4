@@ -22,6 +22,6 @@ The program allows the user to search for a Pokémon by name and displays:
 - Base statistics
 
 
-File: `pokemon_api.ipynb`
+File: `pokemon_api_han.yu.ipynb`
 
 API documentation: https://pokeapi.co/
